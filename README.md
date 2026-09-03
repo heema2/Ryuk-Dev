@@ -69,7 +69,7 @@ Every product below has a **public repo** (info + installer only — no source).
 |---|---|---|---|---|
 | <img src="docs/assets/ryuk-booster-logo.png" width="48"/> | **Ryuk Booster** | Windows 10 / 11 | [heema2/RyukBooster](https://github.com/heema2/RyukBooster) | [Installer](https://github.com/heema2/RyukBooster/releases/latest) |
 | <img src="docs/assets/ryuk-player-logo.png" width="48"/> | **Ryuk Player** | Windows 10 / 11 | [heema2/RyukPlayer](https://github.com/heema2/RyukPlayer) | [Installer](https://github.com/heema2/RyukPlayer/releases/latest) |
-| <img src="docs/assets/azan-logo.png" width="48"/> | **Azan Desktop** | Windows 10 / 11 | [heema2/Ryuk-Azan](https://github.com/heema2/Ryuk-Azan) | [Installer](https://github.com/heema2/Ryuk-Azan/releases/latest) |
+| <img src="docs/assets/azan-logo.png" width="48"/> | **Azan Desktop** | Windows 10 / 11 | [heema2/Azan-Desktop](https://github.com/heema2/Azan-Desktop) | [Installer](https://github.com/heema2/Azan-Desktop/releases/latest) |
 | <img src="docs/assets/gmhelper-logo.png" width="48"/> | **Ryuk GM Helper** | Windows 10 / 11 | [heema2/RyukGMHelper](https://github.com/heema2/RyukGMHelper) | [Installer](https://github.com/heema2/RyukGMHelper/releases/latest) |
 | <img src="docs/assets/ryuk-reminder-logo.png" width="48"/> | **Ryuk Reminder** | Android | [heema2/RyukReminder](https://github.com/heema2/RyukReminder) | [APK](https://github.com/heema2/RyukReminder/releases/latest) |
 | <img src="docs/assets/aqua-logo.png" width="48"/> | **Aqua Bot** | Discord + Web | [heema2/Aqua-Bot](https://github.com/heema2/Aqua-Bot) | [Invite](https://discord.com/oauth2/authorize?client_id=1512880652461150289&permissions=1099914800214&scope=bot%20applications.commands) |
@@ -113,7 +113,7 @@ Music and video player with a dark Ryuk UI, visualizer, equalizer, playlist, tra
 
 Islamic prayer times, Azan audio, Qibla compass, tray countdown, offline fallback, and optional mute-other-apps during Azan.
 
-➡️ **Repo:** [github.com/heema2/Ryuk-Azan](https://github.com/heema2/Ryuk-Azan)
+➡️ **Repo:** [github.com/heema2/Azan-Desktop](https://github.com/heema2/Azan-Desktop)
 
 ### 🎮 Ryuk GM Helper — private-server GM toolkit
 
