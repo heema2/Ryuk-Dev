@@ -49,7 +49,7 @@ I design and ship complete products, not just prototypes:
 
 | I can create | Examples in this studio |
 |---|---|
-| Native **Windows** utilities and media apps | Ryuk Booster, Ryuk Player, Azan Desktop |
+| Native **Windows** utilities and media apps | Ryuk Booster, Ryuk Player, Ryuk IPTV, Azan Desktop |
 | **Android** consumer apps | Ryuk Reminder |
 | Production **Discord bots** + dashboards | Aqua Bot |
 | Game-server **GM / ops tools** | Ryuk GM Helper, Ryuk Dashboard |
@@ -69,6 +69,7 @@ Every product below has a **public repo** (info + installer only — no source).
 |---|---|---|---|---|
 | <img src="docs/assets/ryuk-booster-logo.png" width="48"/> | **Ryuk Booster** | Windows 10 / 11 | [heema2/RyukBooster](https://github.com/heema2/RyukBooster) | [Installer](https://github.com/heema2/RyukBooster/releases/latest) |
 | <img src="docs/assets/ryuk-player-logo.png" width="48"/> | **Ryuk Player** | Windows 10 / 11 | [heema2/RyukPlayer](https://github.com/heema2/RyukPlayer) | [Installer](https://github.com/heema2/RyukPlayer/releases/latest) |
+| <img src="docs/assets/ryuk-iptv-logo.png" width="48"/> | **Ryuk IPTV** | Windows 10 / 11 | [heema2/RyukIPTV](https://github.com/heema2/RyukIPTV) | [Installer](https://github.com/heema2/RyukIPTV/releases/latest) |
 | <img src="docs/assets/azan-logo.png" width="48"/> | **Azan Desktop** | Windows 10 / 11 | [heema2/Azan-Desktop](https://github.com/heema2/Azan-Desktop) | [Installer](https://github.com/heema2/Azan-Desktop/releases/latest) |
 | <img src="docs/assets/gmhelper-logo.png" width="48"/> | **Ryuk GM Helper** | Windows 10 / 11 | [heema2/RyukGMHelper](https://github.com/heema2/RyukGMHelper) | [Installer](https://github.com/heema2/RyukGMHelper/releases/latest) |
 | <img src="docs/assets/ryuk-reminder-logo.png" width="48"/> | **Ryuk Reminder** | Android | [heema2/RyukReminder](https://github.com/heema2/RyukReminder) | [APK](https://github.com/heema2/RyukReminder/releases/latest) |
@@ -84,13 +85,16 @@ Every product below has a **public repo** (info + installer only — no source).
   <img src="docs/assets/shot-player.png" width="46%" alt="Ryuk Player"/>
 </p>
 <p align="center">
-  <img src="docs/assets/shot-azan.png" width="46%" alt="Azan Desktop"/>
+  <img src="docs/assets/shot-iptv.png" width="46%" alt="Ryuk IPTV"/>
   &nbsp;
-  <img src="docs/assets/shot-gmhelper.png" width="46%" alt="Ryuk GM Helper"/>
+  <img src="docs/assets/shot-azan.png" width="46%" alt="Azan Desktop"/>
 </p>
 <p align="center">
-  <img src="docs/assets/shot-reminder.png" width="22%" alt="Ryuk Reminder"/>
+  <img src="docs/assets/shot-gmhelper.png" width="46%" alt="Ryuk GM Helper"/>
   &nbsp;
+  <img src="docs/assets/shot-reminder.png" width="22%" alt="Ryuk Reminder"/>
+</p>
+<p align="center">
   <img src="docs/assets/aqua-dashboard.png" width="68%" alt="Aqua Bot dashboard"/>
 </p>
 
@@ -108,6 +112,13 @@ Dark-themed Windows utility for **Windows 10 & 11**: curated app catalog with si
 Music and video player with a dark Ryuk UI, visualizer, equalizer, playlist, tray icon, and a single-file Windows installer.
 
 ➡️ **Repo:** [github.com/heema2/RyukPlayer](https://github.com/heema2/RyukPlayer)
+
+### 📺 Ryuk IPTV — legitimate subscription IPTV player
+
+Windows IPTV client for **your own** Xtream / M3U subscription: Live, Movies, Series, bilingual EN/AR UI, fullscreen controls, and next-episode UP NEXT card. No bundled channels.
+
+➡️ **Repo:** [github.com/heema2/RyukIPTV](https://github.com/heema2/RyukIPTV)  
+⬇️ **Installer:** [Releases](https://github.com/heema2/RyukIPTV/releases/latest)
 
 ### 🕌 Azan Desktop — prayer times for Windows
 
